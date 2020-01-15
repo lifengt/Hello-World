@@ -5,3 +5,6 @@ how to create a branch
 make a commit 
 open a pull request
 merge pull request
+
+
+hi, everyone, this is lifeng-2, i like coffee and tea.
